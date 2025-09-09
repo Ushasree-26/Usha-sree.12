@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First Web App</title>
+</head>
+<body>
+  <h1>Welcome to My Web Application</h1>
+  <p>This is a simple web app made using HTML.</p>
+
+  <!-- Example Form -->
+  <form>
+    <label for="name">Enter your name:</label>
+    <input type="text" id="name" name="name" required>
+    <button type="submit">Submit</button>
+  </form>
+
+  <!-- Example Links -->
+  <p>Go to <a href="https://www.google.com" target="_blank">Google</a></p>
+</body>
+</html>
